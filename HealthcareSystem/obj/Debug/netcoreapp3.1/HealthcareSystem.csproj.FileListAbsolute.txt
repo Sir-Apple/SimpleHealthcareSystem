@@ -1,0 +1,13 @@
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.exe
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.deps.json
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.runtimeconfig.json
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.runtimeconfig.dev.json
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.dll
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\bin\Debug\netcoreapp3.1\HealthcareSystem.pdb
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.csprojAssemblyReference.cache
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.AssemblyInfoInputs.cache
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.AssemblyInfo.cs
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.csproj.CoreCompileInputs.cache
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.dll
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.pdb
+F:\Projects\C#\HealthcareSystem\HealthcareSystem\obj\Debug\netcoreapp3.1\HealthcareSystem.genruntimeconfig.cache
