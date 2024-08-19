@@ -1,1 +1,4 @@
 # SimpleHealthcareSystem
+
+Technology used:
+- C#
